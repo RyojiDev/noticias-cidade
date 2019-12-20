@@ -345,6 +345,9 @@ h3 {
     #uma-coluna #primario {
         width: 100%;
     }
+    #duas-colunas #primario {
+        width: 100%;
+    }
     #primario {
         width: 100%;
         margin: 0 auto;
