@@ -363,4 +363,13 @@ h3 {
         width: 100%;
         border: 3px solid #dfdfdf;
     }
+    /***Caixa***/
+    .caixa {
+        width: 100%;
+        background: #f3f3f3 url(../imagens/fundo-caixa.png);
+    }
+    .caixa-conteudo {
+        background: #fff;
+        width: 100%;
+    }
 }
